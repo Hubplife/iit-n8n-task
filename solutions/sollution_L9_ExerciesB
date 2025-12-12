@@ -1,0 +1,15 @@
+In this taks I have set a webhook and the respond. The respond is used with HTTP request.
+
+Screenshots:
+
+Adding a new Workflow
+![sc7](sc7.PNG)
+
+Adding HTTPS request node
+![sc8](sc8.PNG)
+
+Adding a respond to a Webhook node
+![sc9](sc9.PNG)
+
+Testing the Workflow
+![sc10](sc10.png)
