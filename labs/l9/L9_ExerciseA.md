@@ -11,7 +11,7 @@ Create a workflow in **n8n** that receives an event name via a **Webhook**, adds
 3. Name it: `L9_ExerciseA_<your_github_username>`.
 
 NOTE: In the `L9/solutions/L9_ExerciseA.md provide a screenshots showing a newly created, properly named workflow.
-
+![Creating a Workflow](sc1.PNG)
 ---
 
 ## Step 2: Add a Webhook Node
