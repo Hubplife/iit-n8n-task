@@ -1,0 +1,12 @@
+In this exercise I set a Workflow where I was saveing webhook responses in a given file. This responses were saved autamatically, with the usage of javascript.
+
+Screenshots
+
+Creating new workflow
+![sc11](sc11.png)
+
+Adding a respond to a Webhook Node
+![sc12](sc12.png)
+
+Veryfing the Codespace
+![sc13](sc13.png)
